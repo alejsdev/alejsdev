@@ -12,7 +12,7 @@
 
 <div align="center">
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alejandrasval&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@alejandrasval&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lelunatique&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=lelunatique&redirect=true)
   
