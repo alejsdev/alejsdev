@@ -9,5 +9,6 @@
 
 ✨<i>Creativity is just intelligence having fun</i>🌟
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejsdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lelunatique&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=lelunatique&redirect=true) |
+| | |
 | --- | --- |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejsdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | <img src="https://spotify-github-profile.vercel.app/api/view?uid=lelunatique&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" height="180"> |
