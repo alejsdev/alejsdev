@@ -10,7 +10,7 @@
 - **Backend**: FastAPI | SQL databases
 - **Other tools**: Docker | Git
 
-📷 As a random fact, I'm an enthusiast photographer (mostly analog) and a cat lady. 🐈
+🎲 As a random fact, I'm an enthusiast photographer (mostly analog) and a cat lady. 🐈📷
 
 📍 Medellín, CO
 
