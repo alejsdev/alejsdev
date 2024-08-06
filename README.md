@@ -12,6 +12,4 @@
 
 🎲 As a random fact, I'm an enthusiast photographer (mostly analog) and a cat lady. 🐈📷
 
-📍 Medellín, CO
-
 📫 You can reach me on LinkedIn as @alejsdev
