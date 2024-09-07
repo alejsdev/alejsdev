@@ -12,6 +12,6 @@
 
 🎲 As a random fact, I'm an enthusiast photographer (mostly analog) and a cat lady.🐈📷
 
-📚 I also love to read from time to time, you can follow my reading journey on **Goodreads** [here](https://www.goodreads.com/user/show/12345678-alejandra). 
+📚 I also love to read from time to time, you can follow my reading journey on **Goodreads** [here](https://www.goodreads.com/user/show/78052043-alejandra). 
 
 📫 You can reach me on **LinkedIn** as @alejsdev
